@@ -43,3 +43,4 @@
 "- Constants" 
 "- Global CSS" 
 "- Setup Logger" 
+"- Vue Router" 
