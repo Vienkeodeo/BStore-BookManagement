@@ -2,3 +2,4 @@
 "- Setup giao di?n" 
 "- Thi?t k? Database" 
 "- Kh?i t?o DbContext" 
+"- CRUD S ch" 
