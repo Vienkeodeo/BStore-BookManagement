@@ -28,3 +28,4 @@
 "- Ch?t h?" 
 "- Refactor DTOs" 
 "- AutoMapper" 
+"- Global Exception" 
