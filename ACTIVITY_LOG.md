@@ -4,3 +4,4 @@
 "- Kh?i t?o DbContext" 
 "- CRUD S†ch" 
 "- D? d? li?u m?u" 
+"- C?u hçnh JWT" 
