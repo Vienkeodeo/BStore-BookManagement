@@ -29,3 +29,4 @@
 "- Refactor DTOs" 
 "- AutoMapper" 
 "- Global Exception" 
+"- CORS" 
