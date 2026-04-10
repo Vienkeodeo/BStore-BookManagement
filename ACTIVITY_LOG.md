@@ -30,3 +30,4 @@
 "- AutoMapper" 
 "- Global Exception" 
 "- CORS" 
+"- Lazy Loading Vue" 
