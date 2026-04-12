@@ -32,3 +32,4 @@
 "- CORS" 
 "- Lazy Loading Vue" 
 "- Caching" 
+"- SQL Index" 
