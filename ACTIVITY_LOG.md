@@ -33,3 +33,4 @@
 "- Lazy Loading Vue" 
 "- Caching" 
 "- SQL Index" 
+"- IDE Config" 
