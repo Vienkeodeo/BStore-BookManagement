@@ -21,3 +21,4 @@
 "- H?y don h…ng" 
 "- UI Chart.js" 
 "- Data Chart" 
+"- QA Test lu?ng" 
