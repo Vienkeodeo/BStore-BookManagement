@@ -23,3 +23,4 @@
 "- Data Chart" 
 "- QA Test lu?ng" 
 "- Fix bug gi? h…ng" 
+"- Fix bug Role" 
