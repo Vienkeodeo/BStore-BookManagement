@@ -25,3 +25,4 @@
 "- Fix bug gi? h…ng" 
 "- Fix bug Role" 
 "- D nh b¢ng UI" 
+"- Ch?t h?" 
