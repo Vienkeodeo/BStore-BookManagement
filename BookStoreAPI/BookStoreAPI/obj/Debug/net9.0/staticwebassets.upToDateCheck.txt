@@ -1,0 +1,12 @@
+wwwroot\24lxguxh.rjv~
+wwwroot\htmlpage.html
+wwwroot\index.html
+wwwroot\books.html
+wwwroot\add-book.html
+wwwroot\g2eqyi2i.3eu~
+wwwroot\register.html
+C:\Users\OS\Desktop\C6\BookStoreAPI\BookStoreAPI\wwwroot\htmlpage.html
+C:\Users\OS\Desktop\C6\BookStoreAPI\BookStoreAPI\wwwroot\index.html
+C:\Users\OS\Desktop\C6\BookStoreAPI\BookStoreAPI\wwwroot\books.html
+C:\Users\OS\Desktop\C6\BookStoreAPI\BookStoreAPI\wwwroot\add-book.html
+C:\Users\OS\Desktop\C6\BookStoreAPI\BookStoreAPI\wwwroot\register.html
