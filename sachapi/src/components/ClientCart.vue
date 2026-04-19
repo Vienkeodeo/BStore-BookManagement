@@ -8,7 +8,7 @@
     </nav>
 
     <div class="container">
-      <h2 class="fw-bold mb-4">Giỏ Hàng Của Bạn</h2>
+      <h2 class="fw-bold mb-4">Giỏ Hàng</h2>
       <div class="row">
         <div class="col-lg-8 mb-4">
           <div class="card border-0 shadow-sm rounded-4 p-4">
@@ -75,3 +75,8 @@ const removeItem = (index) => {
 }
 onMounted(loadCart)
 </script>
+
+<!-- //heloooooooooooooooooooooooooooooooooooooooooooooo-->
+
+
+<!-- Long code -->
